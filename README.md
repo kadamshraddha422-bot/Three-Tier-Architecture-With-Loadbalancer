@@ -163,6 +163,7 @@ The Application Tier consists of:
 
 * Enable **logging and alarms** to maintain operational visibility and quickly identify and troubleshoot issues.
 
-### Conclusion
+## Conclusion
 
-*This classic **three-tier architecture** on AWS, enhanced with load balancers, delivers a **scalable, secure,** and **highly available** infrastructure without relying on Amazon S3 for storage. It follows **AWS best practices** by isolating each tier, using load balancers for efficient traffic distribution, and securing every layer through private networking and tightly scoped security groups.
+
+* This classic **three-tier architecture** on AWS, enhanced with load balancers, delivers a **scalable, secure,** and **highly available** infrastructure without relying on Amazon S3 for storage. It follows **AWS best practices** by isolating each tier, using load balancers for efficient traffic distribution, and securing every layer through private networking and tightly scoped security groups.
